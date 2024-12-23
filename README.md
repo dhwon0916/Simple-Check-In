@@ -1,4 +1,4 @@
-# General Check-In Program
+# Simple Check-In Program
 
 This repository contains a versatile **Check-In Program** designed to streamline attendance management for events, clubs, classrooms, or organizations. It also includes a complementary **Excel Compiler** for consolidating attendance data from multiple files into a single report.
 
